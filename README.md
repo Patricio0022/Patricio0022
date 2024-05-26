@@ -8,5 +8,5 @@
    
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/{Patricio0022}/{Patricio0022}/output/github-contribution-grid-snake-dark.svg)
+
    
