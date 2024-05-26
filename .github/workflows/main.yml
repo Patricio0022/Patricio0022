@@ -17,13 +17,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
+
+
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Patricio0022 }}
+          github_user_name: Patricio0022
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
