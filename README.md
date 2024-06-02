@@ -5,7 +5,7 @@
     <img height="180cm" width="400 px"  src="https://github-readme-stats.vercel.app/api?username=Patricio0022&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Patricio0022" style="display: inline-block;">
-    <img height="180cm" width="385 px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Patricio0022&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages"/>
+    <img height="180cm" width="395 px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Patricio0022&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages"/>
   </a>
 </div>
 
