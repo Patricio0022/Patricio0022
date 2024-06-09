@@ -12,7 +12,7 @@
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patricio0022&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=This%20is%20a%20title)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patricio0022&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
