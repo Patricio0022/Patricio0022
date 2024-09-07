@@ -8,14 +8,9 @@
 
 <div>
   <a href="https://github.com/Patricio0022" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Patricio0022&show_icons=true&theme=codeSTACKr" height="180px" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Patricio0022&show_icons=true&theme=dark" height="180px" width="400px" >
   </a>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patricio0022&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 ## Contact
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:niellucsx@hotmail.com)
